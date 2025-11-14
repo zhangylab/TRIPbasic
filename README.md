@@ -13,7 +13,9 @@
 
 ## Installation Guide
 - Install the Python dependencies with your preferred package manager (pip or conda) and obtain the R packages via BiocManager or install.packages as appropriate.
-- Follow the official FitHiChIP installation instructions: https://ay-lab.github.io/FitHiChIP/html/usage/installation.html.
+- Installation of these packages would be completed within minutes usually. 
+- Follow the official FitHiChIP installation instructions: 
+    https://ay-lab.github.io/FitHiChIP/html/usage/installation.html.
 
 ## Instructions
 0. Extract files from testdata.tar.gz into `testdata` directory.
